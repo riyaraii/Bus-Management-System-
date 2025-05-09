@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\Bus\\Online Bus Booking System\\code\\BusBookingProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42A5219E-0AD8-4C83-80AD-38AC3A17399C}|BusBookingProject\\BusBookingProject.csproj|D:\\.net\\Bus\\Online Bus Booking System\\code\\BusBookingProject\\busbookingproject\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{42A5219E-0AD8-4C83-80AD-38AC3A17399C}|BusBookingProject\\BusBookingProject.csproj|solutionrelative:busbookingproject\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "D:\\.net\\Bus\\Online Bus Booking System\\code\\BusBookingProject\\BusBookingProject\\Admin\\Admin.Master",
+              "RelativeDocumentMoniker": "BusBookingProject\\Admin\\Admin.Master",
+              "ToolTip": "D:\\.net\\Bus\\Online Bus Booking System\\code\\BusBookingProject\\BusBookingProject\\Admin\\Admin.Master",
+              "RelativeToolTip": "BusBookingProject\\Admin\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-31T07:46:45.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
